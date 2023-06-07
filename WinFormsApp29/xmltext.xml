@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <root>
-	<Employee name ="Viktor Viktorovich">
+	<Employee name ="Michael Jackson">
 		<Age>28</Age>
 		<Programmer>False</Programmer>
 	</Employee>
 
-	<Employee name ="Sergey Sergeevichy">
+	<Employee name ="Danil Sergeevichy">
 		<Age>20</Age>
 		<Programmer>False</Programmer>
 	</Employee>
 
-	<Employee name ="Irina Mironova">
+	<Employee name ="Marina Mironova">
 		<Age>26</Age>
 		<Programmer>True</Programmer>
 	</Employee>
 
-	<Employee name ="Petr Crap">
+	<Employee name ="Dima Trap">
 		<Age>25</Age>
 		<Programmer>True</Programmer>
 	</Employee>
